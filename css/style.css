@@ -3,41 +3,7 @@
     padding: 0;
     margin: 0;
 }
-.img{
-    height: 300px;
-    width: 400px;
-}
 .btn{
     width: 200px;
     margin-left: 60px;
-}
-.dropdown{
-    margin-left: 500px;
-}
-#contenedor{
-    display: flex;
-    justify-content: space-around;
-}
-#seccion2{
-    padding: 30px;
-}
-#formulario{
-    height: 500px;
-}
-form{
-    color: white;
-}
-#cont{
-    background-color: rgb(37, 37, 37);
-}
-footer{
-    height: 200px;
-    line-height: 200px;
-}
-
-.icon a{
-    text-decoration: none;
-    list-style: none;
-    color: azure;
-    font-size: 25px;
 }
